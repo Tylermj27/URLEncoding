@@ -1,0 +1,7 @@
+C:\Users\tyson\source\repos\URLEncoder\URLEncoder\bin\Debug\URLEncoder.exe.config
+C:\Users\tyson\source\repos\URLEncoder\URLEncoder\bin\Debug\URLEncoder.exe
+C:\Users\tyson\source\repos\URLEncoder\URLEncoder\bin\Debug\URLEncoder.pdb
+C:\Users\tyson\source\repos\URLEncoder\URLEncoder\obj\Debug\URLEncoder.csproj.CoreCompileInputs.cache
+C:\Users\tyson\source\repos\URLEncoder\URLEncoder\obj\Debug\URLEncoder.exe
+C:\Users\tyson\source\repos\URLEncoder\URLEncoder\obj\Debug\URLEncoder.pdb
+C:\Users\tyson\source\repos\URLEncoder\URLEncoder\obj\Debug\URLEncoder.csprojAssemblyReference.cache
